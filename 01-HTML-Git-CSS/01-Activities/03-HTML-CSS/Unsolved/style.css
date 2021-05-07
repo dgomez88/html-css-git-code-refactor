@@ -1,0 +1,30 @@
+
+
+header h1 {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+    margin: 0;
+}
+
+h2 {
+    margin: 50px;
+    font-size: 30px;
+}
+
+img {
+    margin-bottom: 50px;
+    margin: 20px
+}
+
+p {
+    margin-right: 50px;
+    float:center;
+}
+
+.contact-info {
+    float:right;
+}
